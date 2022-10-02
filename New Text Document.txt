@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BarberShop</title>
   </head>
+
   <body>
     <header>
       <a href="/">
@@ -62,12 +63,12 @@
         </p>
         <p>
           We are a team that never stops at what has been achieved and are
-          thirsty for changes. And when you fall into the hands of our master,
-          you will never be the same again. We are a team that is always "on the
-          same wave" with clients. Therefore, we are always ready to improve
-          everyone who comes to us!
+          thirsty for changes. And when you fall into the hands of our
+          master,you will never be the same again. We are a team that is always
+          "on the same wave" with clients. Therefore, we are always ready to
+          improve everyone who comes to us!
         </p>
-        <button type="button">Online-booking</button>
+        <button type="button">online-booking</button>
       </section>
       <section class="services">
         <p>Spend your time with the best masters</p>
@@ -142,21 +143,31 @@
         <ul>
           <li>
             <img
-              src="./img/barber-John.jpg"
-              alt="Barber-john smith"
               width="370"
               height="346"
+              src="./img/barber-john.jpg"
+              alt="Barber John Smith"
             />
             <p>John Smith</p>
             <p>Extreme Barber</p>
           </li>
           <li>
-            <img src="./img/barber-Michele.jpg" alt="barber-michele doe" />
+            <img
+              width="370"
+              height="346"
+              src="./img/barber-michele.jpg"
+              alt="Barber Michele Doe"
+            />
             <p>Michele Doe</p>
             <p>Extreme Barber</p>
           </li>
           <li>
-            <img src="./img/barber-Alan.jpg" alt="barber-alan lack" />
+            <img
+              width="370"
+              height="346"
+              src="./img/barber-alan.jpg"
+              alt="Barber Alan Black"
+            />
             <p>Alan Black</p>
             <p>Extreme Barber</p>
           </li>
@@ -165,21 +176,21 @@
       <section class="gallery">
         <p>In Latin, "barba" means "beard"</p>
         <h2 hidden>Gallery</h2>
-        <img src="./img/gallery1.jpg" alt="gallery1" width="270" height="360" />
-        <img src="./img/gallery2.jpg" alt="gallery2" width="270" height="360" />
-        <img src="./img/gallery3.jpg" alt="gallery3" width="270" height="360" />
-        <img src="./img/gallery4.jpg" alt="gallery4" width="270" height="360" />
+        <img width="270" height="360" src="./img/gallery1.jpg" alt="gallery1" />
+        <img width="270" height="360" src="./img/gallery2.jpg" alt="gallery2" />
+        <img width="270" height="360" src="./img/gallery3.jpg" alt="gallery3" />
+        <img width="270" height="360" src="./img/gallery4.jpg" alt="gallery4" />
       </section>
       <section class="online-booking">
         <h2>Online-booking</h2>
       </section>
-      <section class="contacts">
-        <h2></h2>
+      <section class="contact">
+        <h2>Contacts</h2>
         <address>
           <ul>
             <li>
               <a
-                href="https://g.page/gaga-rest-v?share"
+                href="https://goo.gl/maps/g6B2urwPhxp6tYQ9A"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 >st. Vasilkovaya, 7A Kiev, 08132</a
@@ -188,9 +199,9 @@
             <li><a href="tel:+380441111111">+38 044 111 11 11</a></li>
             <li>
               <a
-                href="mailto:barbershop@email.com"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
+                href="mailto:barbershop@email.com"
                 >barbershop@email.com</a
               >
             </li>
@@ -201,7 +212,7 @@
       </section>
     </main>
     <footer>
-      <span> &copy;Copyright 2020 </span>
+      <span>&copy; Copyright 2020</span>
       <ul>
         <li>
           <a href="" target="_blank" rel="noopener noreferrer nofollow"
